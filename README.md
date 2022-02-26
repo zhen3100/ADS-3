@@ -1,8 +1,8 @@
 # ADS-2 Модификация бинарного поиска
 
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/NNTU-CS/ADS-0)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/NNTU-CS/ADS-0)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/NNTU-CS/ADS-2)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/NNTU-CS/ADS-2)
 
 Срок выполнения задания:
 
