@@ -1,4 +1,4 @@
-// Copyright 2021 NNTU-CS
+// Copyright 2021 EV.VOLKOV
 
 int cbinsearch(int *arr, int size, int value) {
     int k = 0;
